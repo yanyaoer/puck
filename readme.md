@@ -1,7 +1,7 @@
 install
 ---
 
-  $pip install -e git+git://github.com/yanyaoer/puck.git
+  $pip install git+git://github.com/yanyaoer/puck.git
 
 
 run
@@ -14,3 +14,6 @@ testing
 ---
 
   $python -m puck.test
+
+
+[screenshoot](http://ascii.io/a/6549)
