@@ -16,4 +16,4 @@ testing
   $python -m puck.test
 
 
-[screenshoot](http://ascii.io/a/6549)
+[screencast](http://ascii.io/a/6549)
