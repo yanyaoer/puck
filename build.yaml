@@ -1,0 +1,9 @@
+version:
+  - 2.7.6
+  - pypy
+require: requirements.txt
+script:
+  run: puck/main.py
+  test: puck/test.py
+branch:
+  - master
